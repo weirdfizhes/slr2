@@ -1,0 +1,11 @@
+streamlit
+pandas
+google-generativeai
+pymupdf
+networkx
+matplotlib
+opencage
+spacy
+seabron
+sentence-transformers
+numpy

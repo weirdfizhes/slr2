@@ -4,6 +4,11 @@ pacific-aurora-424604-s5-3ddd9d9858c9.json
 gdc_encrypted.json
 Streamlit/temp_decrypted_key.json
 problem\keys\cloud-sheets-448704-dcb563489f7c.json
-/problem
-/venv
-/env
+# Ignore the problem directory
+problem/
+
+# Ignore the env directory
+env/
+
+# Ignore the venv directory
+venv/
